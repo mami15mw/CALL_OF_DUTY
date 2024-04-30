@@ -1,0 +1,80 @@
+nav {
+  position: fixed !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+#logo {
+  width: 50%;
+}
+
+#h-1 {
+  background-image: url(https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw2/home/reveal/new-era/new_era-features.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#section {
+  background-image: url(https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw2/home/reveal/new-era/new_era-mw2.jpg);
+  background-size: cover;
+}
+#section-2 {
+  background-color: black;
+}
+
+#img-fluid-1 {
+  width: 240px;
+  height: 477px;
+}
+.img-fluid {
+  width: 400px;
+}
+
+#img-fluid {
+  width: 240px;
+  height: 477px;
+  margin-left: 20%;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: left;
+}
+
+div > a > img {
+  width: 162px;
+}
+
+section div img {
+  width: 200px;
+}
+
+#circle {
+  width: 100%;
+  height: 100%;
+}
+
+#bg {
+  background-image: url(/img/image_2.jpg);
+  height: 700px;
+  background-position: center;
+  background-size: cover;
+}
+
+#app-ikon {
+  width: 10%;
+}
+@media (max-width: 700px) {
+  #app-ikon {
+    width: 20%;
+    line-height: 20px;
+  }
+}
+
+#get-section {
+  background-image: url(/img/wallpaperflare.com_wallpaper\ \(1\).jpg);
+  background-size: cover;
+  background-position: 15rem;
+}
